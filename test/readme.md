@@ -1,6 +1,6 @@
 
 A simple example of how to create a project with pytest enabled
 
-## Installation/
+## Installation
  - pytest
  - python
